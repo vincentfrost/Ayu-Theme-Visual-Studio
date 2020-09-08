@@ -1,0 +1,13 @@
+D:\Ayu\Ayu\bin\Debug\Ayu.dll
+D:\Ayu\Ayu\bin\Debug\Ayu.pdb
+D:\Ayu\Ayu\bin\Debug\Ayu.vsix
+D:\Ayu\Ayu\bin\Debug\extension.vsixmanifest
+D:\Ayu\Ayu\obj\Debug\Ayu.csprojAssemblyReference.cache
+D:\Ayu\Ayu\obj\Debug\_EmptyResource.resources
+D:\Ayu\Ayu\obj\Debug\Ayu.csproj.GenerateResource.cache
+D:\Ayu\Ayu\obj\Debug\Ayu.csproj.CoreCompileInputs.cache
+D:\Ayu\Ayu\obj\Debug\Ayu.dll
+D:\Ayu\Ayu\obj\Debug\Ayu.pdb
+D:\Ayu\Ayu\obj\Debug\extension.vsixmanifest
+D:\Ayu\Ayu\obj\Debug\files.json
+D:\Ayu\Ayu\obj\Debug\createTemplateManifests.cache
